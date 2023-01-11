@@ -49,43 +49,43 @@ global.media = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg'
 global.wame = 'https://wa.me/message/KRXQFJXHYZDNL1'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [
-['628XXXXXXXXX', '𝑍𝑌𝐾𝑂-𝑀𝐷', true],
-['628XXXXXXXXX', '𝑍𝑌𝐾𝑂-𝑀𝐷', true]
+['6282117289550', 'Yatz-𝑀𝐷', true],
+['6282117289550', 'Yatz-𝑀𝐷', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '628XXXXXXXXX' //pasang no bot lo 
-global.nomorown = '628XXXXXXXXX' //pasang no own lo
+global.nomorbot = '62895622286921' //pasang no bot lo 
+global.nomorown = '6282117288550' //pasang no own lo
 global.nomorown1 = '628XXXXXXXXX'
 global.nomorown2 = '628XXXXXXXXX'
 global.nomorwa = '0'
-global.nameown = '𝑍𝑌𝐾𝑂-𝑀𝐷'
+global.nameown = 'Yatz-𝑀𝐷'
 global.gcname = '𝑍𝑌𝐾𝑂-𝑀𝐷 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
-global.author = 'Created By 𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.namabot = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.namebot = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.packname2 = '𝑍𝑌𝐾𝑂-𝑀𝐷'
+global.author = 'Created By Yatz-𝑀𝐷'
+global.namabot = 'Akeno𝗕𝗼𝘁𝘇-𝗠𝗗'
+global.namebot = 'Akeno𝗕𝗼𝘁𝘇-𝗠𝗗'
+global.packname2 = 'Yatz-𝑀𝐷'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.nameown1= '𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.nameown2 = '𝑍𝑌𝐾𝑂-𝑀𝐷'
+global.nameown1= 'Yatz-𝑀𝐷'
+global.nameown2 = 'Yatz-𝑀𝐷'
 
 /*============== STAFF ==============*/
 //kosong
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.wm2 = '𝑍𝑌𝐾𝑂-𝑀𝐷 '
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Akeno-𝑀𝐷'
+global.wm2 = 'Yatz-𝑀𝐷 '
 global.packname = wm
 global.watermark = wm
-global.titlebot = `𝑍𝑌𝐾𝑂-𝑀𝐷`
+global.titlebot = `AKENO-𝑀𝐷`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NAMA STICKER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.stickpack = '𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.stickauth = `© 𝑍𝑌𝐾𝑂-𝑀𝐷`
+global.stickpack = 'AKENO-𝑀𝐷'
+global.stickauth = `© YATZ-𝑀𝐷`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TIME INFO  ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
@@ -97,7 +97,7 @@ global.wibb = `${wktuwib}`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ INTRO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.botintro = 'Hallo, Saya ZykoBotz-MD Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh zyko-md ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
+global.botintro = 'Hallo, Saya AkenoBotz-MD Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh yatz-md ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/676bac7774d2785b7ee1e.jpg'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
