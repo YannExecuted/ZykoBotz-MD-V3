@@ -55,15 +55,15 @@ global.owner = [
 global.mods = []
 global.prems = []
 global.nomorbot = '62895622286921' //pasang no bot lo 
-global.nomorown = '6282117288550' //pasang no own lo
+global.nomorown = '6282117289550' //pasang no own lo
 global.nomorown1 = '628XXXXXXXXX'
 global.nomorown2 = '628XXXXXXXXX'
 global.nomorwa = '0'
 global.nameown = 'Yatz-𝑀𝐷'
 global.gcname = '𝑍𝑌𝐾𝑂-𝑀𝐷 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
 global.author = 'Created By Yatz-𝑀𝐷'
-global.namabot = 'Akeno𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.namebot = 'Akeno𝗕𝗼𝘁𝘇-𝗠𝗗'
+global.namabot = 'AkenoBotz-𝗠𝗗'
+global.namebot = 'AkenoBotz-𝗠𝗗'
 global.packname2 = 'Yatz-𝑀𝐷'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
