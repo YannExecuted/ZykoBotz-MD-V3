@@ -352,7 +352,7 @@ const sections = [
         {title: `ℹ️ ${pmenus} Info`, rowId: ".? info", description: "Info info BOT"},
         {title: `👩‍💻 ${pmenus} Owner`, rowId: ".? owner", description: "Owner Only!"},
         {title: `❓ ${pmenus} No Category`, rowId: ".? nocategory", description: "Fitur tanpa kategory!"},
-       {title: `⏲️ ${pmenus} SUBSCRIBE YT`, rowId: ".zyko-md", description: "Jangan Lupa Subscribe yt ZykoBotz-MD official 🌝"},
+       {title: `⏲️ ${pmenus} SUBSCRIBE YT`, rowId: ".zyko-md", description: "Jangan Lupa Subscribe yt AkenoBotz 🌝"},
         ]
         },
 ]
