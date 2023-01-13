@@ -65,7 +65,7 @@ let handler = async (m, { conn,isOwner, isROwner, text }) => {
     let pesan = m.quoted && m.quoted.text ? m.quoted.text : text
     if(!pesan) throw 'teksnya?'
     m.reply(`Mengirim Broadcast Ke ${anu.length} Chat, Waktu Selesai ${anu.length * 0.5} detik`)
-    let bcbg = `${pickRandom(['https://telegra.ph/file/336eb96c3db52d0b24d5a.jpg', 'https://telegra.ph/file/f236870e09d90b11ac102.jpg','https://telegra.ph/file/782d80d72da9eb3113572.jpg','https://telegra.ph/file/52b5203f3c4a888b9ddcf.jpg','https://telegra.ph/file/d1939dab9770d12282180.jpg'])}`
+    let bcbg = `${pickRandom(['https://telegra.ph/file/2d2449b7e0e77be23d04f.jpg', 'https://telegra.ph/file/02bacf5f4c6f5c8422855.jpg','https://telegra.ph/file/1882ac47fdd9143d8d4b4.jpg','https://telegra.ph/file/7abb87a1d983812dfb166.jpg','https://telegra.ph/file/4b21daf1d8e1df4dda114.jpg'])}`
     for (let i of anu) {
   conn.send3ButtonImg(i, bcbg, `${global.namebot} Broadcast Group\n`,`
 ┏━ ❮❮ 𝙼𝙴𝚂𝚂𝙴𝙶𝙴 ❯❯
