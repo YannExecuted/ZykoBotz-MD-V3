@@ -24,7 +24,7 @@ let str = `
 `
 
 conn.sendButtonDoc(m.chat, str, wm,' ᴏᴋᴇ ','huuu', m, { contextInfo: { externalAdReply: { showAdAttribution: false,
-    mediaUrl: 'https://instagram/kabulsaputra21',
+    mediaUrl: 'https://www.instagram.com/yatgremory',
     mediaType: 2, 
     description: sgc,
     title: '≪ Jᴏɪɴ Sɪɴɪ Cᴜʏ ⋟',
