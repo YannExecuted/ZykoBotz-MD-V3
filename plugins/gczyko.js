@@ -29,7 +29,7 @@ conn.sendButtonDoc(m.chat, str, wm,' ᴏᴋᴇ ','huuu', m, { contextInfo: { ext
     description: sgc,
     title: '≪ Jᴏɪɴ Sɪɴɪ Cᴜʏ ⋟',
     body: wm,
-    thumbnail: await(await fetch("https://telegra.ph/file/c653d0920d9f267dda58d.jpg")).buffer(),
+    thumbnail: await(await fetch("https://telegra.ph/file/02bacf5f4c6f5c8422855.jpg")).buffer(),
     sourceUrl: sgc
   }
   } }) 
