@@ -17,5 +17,5 @@ function pickRandom(list) {
 }
 let stikerhuuu = [
 
-"https://telegra.ph/file/a3408b1aeb9066dedaaba.jpg",
+"https://telegra.ph/file/d37aa360cc67ff27e481d.png",
 ]
