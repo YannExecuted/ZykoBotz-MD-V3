@@ -24,12 +24,12 @@ let str = `
 `
 
 conn.sendButtonDoc(m.chat, str, wm,' ᴏᴋᴇ ','huuu', m, { contextInfo: { externalAdReply: { showAdAttribution: false,
-    mediaUrl: 'https://instagram/kabulsaputra21',
+    mediaUrl: 'https://www.instagram.com/yatgremory',
     mediaType: 2, 
     description: sgc,
     title: '≪ Jᴏɪɴ Sɪɴɪ Cᴜʏ ⋟',
     body: wm,
-    thumbnail: await(await fetch("https://telegra.ph/file/c653d0920d9f267dda58d.jpg")).buffer(),
+    thumbnail: await(await fetch("https://telegra.ph/file/eb240dc2b6e2515b2a0c9.jpg")).buffer(),
     sourceUrl: sgc
   }
   } }) 
