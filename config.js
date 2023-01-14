@@ -37,7 +37,7 @@ const readMore = more.repeat(4001)
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sig = 'https://www.instagram.com/yatgremory'
-global.tautanwa = 'https://wa.me/qr/QDRU7ZVPZVOCF1'
+global.tautanwa = 'https://chat.whatsapp.com/HZ6jXbsvWXjKejcHQaEiky'
 global.sgh = 'https://github.com/YannExecuted' //github
 global.sgc = 'https://chat.whatsapp.com/HZ6jXbsvWXjKejcHQaEiky' //group whatsapp
 global.sdc = '-' //discord
